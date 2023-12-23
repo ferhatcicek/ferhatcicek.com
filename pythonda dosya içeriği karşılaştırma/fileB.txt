@@ -1,0 +1,2 @@
+first_file_lines = Path(‘fileA.txt’)
+second_file_lines = Path(‘file2.txt’).read_text()
