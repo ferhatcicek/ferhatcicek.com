@@ -10,3 +10,7 @@ https://ferhatcicek.com sitesinde yer alan yazılardaki kodları içermektedir.
 
 
 - [hareketli ortalama ve standart sapma ile anomali tespiti örneği](https://ferhatcicek.com/hareketli-ortalama-ve-standart-sapma-ile-anomali-tespiti-ornegi/)
+
+
+- [pythonda dosya içeriği karşılaştırma](https://ferhatcicek.com/pythonda-dosya-icerigi-karsilastirma/)
+
