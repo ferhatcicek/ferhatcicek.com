@@ -13,4 +13,7 @@ https://ferhatcicek.com sitesinde yer alan yazılardaki kodları içermektedir.
 
 
 - [pythonda dosya içeriği karşılaştırma](https://ferhatcicek.com/pythonda-dosya-icerigi-karsilastirma/)
+  
+
+- [securecrt commands manager e komut listesi eklemek](https://ferhatcicek.com/securecrt-commands-manager-e-komut-listesi-eklemek/)
 
