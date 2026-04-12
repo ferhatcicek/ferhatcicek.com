@@ -1,0 +1,13 @@
+{% for item in items %}
+/configure service sdp {{ item.sdpid }}  mpls create
+info
+description "to_{{ item.routerb }} "
+far-end {{ item.routerbip }} 
+ldp
+path-mtu 4462
+keep-alive
+    shutdown
+exit
+no shutdown
+
+{% endfor %}
